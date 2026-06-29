@@ -26,6 +26,12 @@ public:
             auto [wt, u, ed] = pq.top();
             pq.pop();
 
+            if (wt > minWt[u][ed])
+                continue;
+
+            if (u == dst)
+                return wt;
+
             for (auto [w, v] : graph[u]) {
 
                 int newWt = wt + w;
@@ -40,11 +46,7 @@ public:
                 }
             }
         }
-        int ans = INT_MAX;
-        for(auto &ele:minWt[dst]){
-            ans = min(ans,ele);
-        }
 
-        return ans==INT_MAX? -1:ans;
+        return  -1;
     }
 };
