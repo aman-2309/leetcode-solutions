@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aman-2309/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/aman-2309/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0682-baseball-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman-2309/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0399-evaluate-division](https://github.com/aman-2309/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0680-valid-palindrome-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman-2309/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Two Pointers
 |  |
 | ------- |
