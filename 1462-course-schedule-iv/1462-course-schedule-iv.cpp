@@ -12,14 +12,10 @@ public:
         }
         for (int k = 0; k < num; k++) {
             for (int i = 0; i < num; i++) {
+                if (!vec[i][k])
+                    continue; 
                 for (int j = 0; j < num; j++) {
-                    if (i == k or j == k)
-                        continue;
-                    if (i == j)
-                        continue;
-                    if (!vec[i][j]) {
-                        vec[i][j] = vec[i][k] and vec[k][j];
-                    }
+                    vec[i][j] = vec[i][j] || (vec[i][k] && vec[k][j]);
                 }
             }
         }
