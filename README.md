@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman-2309/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/aman-2309/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1462-course-schedule-iv](https://github.com/aman-2309/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/aman-2309/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aman-2309/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman-2309/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
@@ -109,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aman-2309/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman-2309/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## String
 |  |
 | ------- |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
 |  |
 | ------- |
