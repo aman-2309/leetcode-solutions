@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aman-2309/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/aman-2309/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -171,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/aman-2309/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/aman-2309/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
