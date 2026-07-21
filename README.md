@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/aman-2309/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aman-2309/leetcode-solutions/tree/master/0078-subsets) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0137-single-number-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/aman-2309/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0680-valid-palindrome-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Greedy
 |  |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aman-2309/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/aman-2309/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
