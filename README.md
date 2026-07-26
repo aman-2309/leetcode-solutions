@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aman-2309/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman-2309/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/aman-2309/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/0054-spiral-matrix) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sliding Window
