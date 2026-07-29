@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aman-2309/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/aman-2309/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0496-next-greater-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0526-beautiful-arrangement](https://github.com/aman-2309/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0682-baseball-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aman-2309/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman-2309/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -239,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
