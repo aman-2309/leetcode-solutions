@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/aman-2309/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aman-2309/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aman-2309/leetcode-solutions/tree/master/0078-subsets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aman-2309/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/aman-2309/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/aman-2309/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aman-2309/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aman-2309/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/aman-2309/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/aman-2309/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aman-2309/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aman-2309/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aman-2309/leetcode-solutions/tree/master/0075-sort-colors) |
 ## Math
 |  |
