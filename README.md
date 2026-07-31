@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/aman-2309/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aman-2309/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
+| [1109-corporate-flight-bookings](https://github.com/aman-2309/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman-2309/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1109-corporate-flight-bookings](https://github.com/aman-2309/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
