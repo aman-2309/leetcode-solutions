@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0526-beautiful-arrangement](https://github.com/aman-2309/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0682-baseball-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/aman-2309/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aman-2309/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1109-corporate-flight-bookings](https://github.com/aman-2309/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/aman-2309/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/aman-2309/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman-2309/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Depth-First Search
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aman-2309/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman-2309/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
 ## String Matching
 |  |
 | ------- |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aman-2309/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
