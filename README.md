@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1109-corporate-flight-bookings](https://github.com/aman-2309/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/aman-2309/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aman-2309/leetcode-solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman-2309/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aman-2309/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
 ## String Matching
 |  |
 | ------- |
@@ -332,4 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
