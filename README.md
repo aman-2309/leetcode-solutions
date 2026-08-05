@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0706-design-hashmap](https://github.com/aman-2309/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/aman-2309/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aman-2309/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1109-corporate-flight-bookings](https://github.com/aman-2309/leetcode-solutions/tree/master/1109-corporate-flight-bookings) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/aman-2309/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0706-design-hashmap](https://github.com/aman-2309/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/aman-2309/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman-2309/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/aman-2309/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/aman-2309/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman-2309/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/aman-2309/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
 ## Linked List
