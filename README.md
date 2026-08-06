@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aman-2309/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/0072-edit-distance) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aman-2309/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aman-2309/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/aman-2309/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/aman-2309/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/aman-2309/leetcode-solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0526-beautiful-arrangement](https://github.com/aman-2309/leetcode-solutions/tree/master/0526-beautiful-arrangement) |
@@ -369,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/aman-2309/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aman-2309/leetcode-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
