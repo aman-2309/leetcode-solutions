@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aman-2309/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1462-course-schedule-iv](https://github.com/aman-2309/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aman-2309/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-all-paths-from-source-to-target](https://github.com/aman-2309/leetcode-solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1462-course-schedule-iv](https://github.com/aman-2309/leetcode-solutions/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aman-2309/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/aman-2309/leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/aman-2309/leetcode-solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1462-course-schedule-iv](https://github.com/aman-2309/leetcode-solutions/tree/master/1462-course-schedule-iv) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aman-2309/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/aman-2309/leetcode-solutions/tree/master/0399-evaluate-division) |
 | [0990-satisfiability-of-equality-equations](https://github.com/aman-2309/leetcode-solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1631-path-with-minimum-effort](https://github.com/aman-2309/leetcode-solutions/tree/master/1631-path-with-minimum-effort) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aman-2309/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
