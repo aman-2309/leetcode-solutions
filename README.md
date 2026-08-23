@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/aman-2309/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/aman-2309/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/aman-2309/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aman-2309/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/aman-2309/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/aman-2309/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aman-2309/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman-2309/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/aman-2309/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aman-2309/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1695-maximum-erasure-value](https://github.com/aman-2309/leetcode-solutions/tree/master/1695-maximum-erasure-value) |
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aman-2309/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aman-2309/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/aman-2309/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
 |  |
@@ -449,4 +453,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/aman-2309/leetcode-solutions/tree/master/0399-evaluate-division) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
