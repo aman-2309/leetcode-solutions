@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/aman-2309/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aman-2309/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aman-2309/leetcode-solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aman-2309/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aman-2309/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/aman-2309/leetcode-solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/aman-2309/leetcode-solutions/tree/master/1406-stone-game-iii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aman-2309/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## String Matching
 |  |
 | ------- |
