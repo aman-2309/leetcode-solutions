@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aman-2309/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/aman-2309/leetcode-solutions/tree/master/0399-evaluate-division) |
+| [0543-diameter-of-binary-tree](https://github.com/aman-2309/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aman-2309/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aman-2309/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/aman-2309/leetcode-solutions/tree/master/0695-max-area-of-island) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aman-2309/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/aman-2309/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/aman-2309/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aman-2309/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aman-2309/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aman-2309/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/aman-2309/leetcode-solutions/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aman-2309/leetcode-solutions/tree/master/0113-path-sum-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/aman-2309/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aman-2309/leetcode-solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/aman-2309/leetcode-solutions/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Hash Function
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aman-2309/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/aman-2309/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
